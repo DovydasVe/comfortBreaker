@@ -1,1 +1,1 @@
-# comfortBreaker
+This is a website which gives you a daily task to do, which gets you out of your comfort zone. It's a good way for people who want to see self-growth. I might make an app on this further into my journey.
